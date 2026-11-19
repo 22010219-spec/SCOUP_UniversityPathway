@@ -1,0 +1,8 @@
+{
+  "name": "La Bàn Đại Học",
+  "description": "Trò chơi trắc nghiệm tính cách RIASEC giúp học sinh THPT khám phá ngành học phù hợp và gợi ý trường đại học lý tưởng tại Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
